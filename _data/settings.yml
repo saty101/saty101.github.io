@@ -7,8 +7,8 @@ email: satyajitghosh1111@gmail.com
 phone: +91 8447520696
 
 menu:
-- {name: Resume, link: ''}
-- {name: Blog, link: '/blog'}
+- {name: Resume, link: 'drive.google.com/file/d/1J6ug-hjsRgoqPgpxJHHMNu-f8sjjZCKX/view?usp=sharing'}
+# - {name: Blog, link: '/blog'}
 - {name: Kaggle, link: 'https://www.kaggle.com/saty101'}
 - {name: Github, link: 'https://github.com/saty101'}
 
