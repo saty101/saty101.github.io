@@ -29,3 +29,4 @@ exclude:
   - LICENSE.text
   - README.md
   - SECURITY.md
+  - vendor
