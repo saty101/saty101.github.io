@@ -146,6 +146,10 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items: 
+  - image : "assets/images/portfolio/speech-enhancement.png"
+    url: "https://github.com/saty101/Speech-Enhancement"
+    name: Speech Enhancement(Audio Denoising)
+    
   - image : "assets/images/portfolio/image-captioning.png"
     url: "https://github.com/saty101/Image-Captioning"
     name: Image Caption Generator
